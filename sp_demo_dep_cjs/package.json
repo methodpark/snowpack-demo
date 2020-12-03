@@ -1,0 +1,9 @@
+{
+  "name": "@zaphod1984/sp_demo_dep_cjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Manuel Ernst",
+  "license": "ISC"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "sp_demo_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@zaphod1984/sp_demo_dep_cjs": "^1.0.0",
+    "@zaphod1984/sp_demo_dep_esm": "^1.0.0"
+  },
+  "devDependencies": {
+    "@snowpack/plugin-webpack": "^2.3.0",
+    "snowpack": "^3.0.10",
+    "webpack": "^4.46.0"
+  }
+}

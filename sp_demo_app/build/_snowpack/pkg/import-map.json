@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "@zaphod1984/sp_demo_dep_cjs": "./@zaphod1984/sp_demo_dep_cjs.js",
+    "@zaphod1984/sp_demo_dep_esm": "./@zaphod1984/sp_demo_dep_esm.js"
+  }
+}
